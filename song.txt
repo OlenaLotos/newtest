@@ -4,12 +4,8 @@ blablabla
 hahaha
 new strings of a song holahola
 one more change
-<<<<<<< HEAD
 
 
 some content
 and here
 ____________________________________________
-=======
->>>>>>> parent of 6bd2cd6 (add line)
-++++++++++++
